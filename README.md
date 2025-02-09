@@ -1,11 +1,6 @@
-# Acies Developer Documentation
+# Antares Developer Documentation
 
 Welcome to the Acies developer documentation. This README provides an overview of our team, the products we offer, and the primary repositories we use in our day-to-day work.
-
----
-
-## About Acies
-
 We are a team at Acies dedicated to providing comprehensive banking software solutions, focusing on back-end balance sheet management. Our goal is to deliver robust, scalable platforms that help financial institutions streamline their operations and manage risk effectively.
 
 ---
@@ -56,32 +51,3 @@ Below is a brief overview of our main repositories and their purposes.
   - Integration with market data for real-time or batch valuations.
 
 ---
-
-## Getting Started
-
-1. **Clone the repositories** relevant to your work.
-2. **Review the documentation** in each repository’s `README.md` or `docs` folder.
-3. **Set up your development environment** based on the instructions provided (e.g., installing required dependencies).
-4. **Follow the contribution guidelines** to commit your changes and open pull requests.
-
----
-
-## Resources & Support
-
-- **Project Management:** We use [Jira/Your Ticketing System] for task tracking and sprint planning.  
-- **Continuous Integration:** Our code is built, tested, and deployed using [GitHub Actions/Jenkins/Other CI Tools].  
-- **Collaboration:** Join our internal Slack/Teams channels for real-time discussions and Q&A.
-
----
-
-## Contact
-
-For any questions or support, feel free to reach out to:
-- **Team Lead:** [Name]  
-- **Email:** [team@acies.com]  
-- **Slack/Teams Channel:** `#acies-developers`
-
----
-
-**Thank you for being part of the Acies developer community!**  
-We look forward to your contributions and innovations.
